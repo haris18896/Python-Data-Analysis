@@ -1,3 +1,8 @@
+# data Frames
+advance/*.csv
+advance/*.xlsx
+advance/*.parquet
+advance/*.pkl
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
